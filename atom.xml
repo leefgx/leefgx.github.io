@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>leefgx</title>
   
-  
+  <subtitle>leefgxの博客</subtitle>
   <link href="https://leefgx.github.io/atom.xml" rel="self"/>
   
   <link href="https://leefgx.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://leefgx.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>leefgx</name>
     
   </author>
   
